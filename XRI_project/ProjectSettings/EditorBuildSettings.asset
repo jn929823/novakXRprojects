@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Challenge1.unity
     guid: 7856cc6966bc8804da331d982021d0c1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/XRBaseScene.unity
     guid: d0a7794a5ed22174fbc7881b2dea5f9c
+  - enabled: 1
+    path: Assets/Scenes/ArcheryPassthrough.unity
+    guid: dd09ba2de9029984abaeeca35b4a8cef
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7ef9c2087ab634b4ba03f56f0446f092, type: 2}
