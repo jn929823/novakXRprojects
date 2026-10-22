@@ -57,9 +57,6 @@ public class DoorFeatures : CoreFeatures
         {
             OpenDoor();
         });
-
-        //REMOVE THIS - TESTING ONLY
-        OpenDoor();
     }
     public void OpenDoor()
     {
